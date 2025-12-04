@@ -1,4 +1,5 @@
-## Hi there 👋
+Hey,
+This is mostly barren while I'm still moving my projects from gitlab and local storage over to here.
 
 <!--
 **ayyub-amn/ayyub-amn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
